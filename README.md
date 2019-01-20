@@ -6,5 +6,5 @@
 
 ## Release
 When you want to use this application, I'll glad if you tell about that via [Twitter](https://twitter.com/a01sa01to) :)  
-This app is redistributable but requires .NET Framework 4.6 or higher.  
+This app requires .NET Framework 4.6 or higher.  
 > Version 1.0 Released on 2019/01/20 (UST+09:00)
