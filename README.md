@@ -16,3 +16,6 @@ Just Deleting these files.
 When you want to use this application, I'll glad if you tell about that via [Twitter](https://twitter.com/a01sa01to) :)  
 This app requires .NET Framework 4.6 or higher.  
 > Version 1.0 Released on 2019/01/20 (UST+09:00)  
+
+## Author
+<a href="https://twitter.com/a01sa01to?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @a01sa01to</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
