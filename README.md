@@ -1,4 +1,7 @@
 # IME Change
+[![MIT License](https://img.shields.io/github/license/a01sa01to/IMEChange?maxAge=3600, "MIT License")](https://github.com/a01sa01to/IMEChange/blob/master/LICENSE)
+[![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&message=%40a01sa01to&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=4273512934)
+
 ## Application to change IME
 `changer.exe` is the App.  
 `source.cs` is the source code.  
@@ -18,6 +21,5 @@ This app requires .NET Framework 4.6 or higher.
 > Version 1.0 Released on 2019/01/20 (UST+09:00)  
 
 ## Author
-[Asa（@a01sa01to）](https://twitter.com/a01sa01to)  
-  
-<a href="https://twitter.com/messages/compose?recipient_id=4273512934&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="a01sa01to" data-show-count="false">Message @a01sa01to</a>
+[Asa（@a01sa01to）](https://twitter.com/a01sa01to)<br>
+[Send Message to Author](https://twitter.com/messages/compose?recipient_id=4273512934)
